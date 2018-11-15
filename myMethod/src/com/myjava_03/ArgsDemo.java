@@ -1,8 +1,8 @@
 package com.myjava_03;
 /*
     方法的参数：
-    实际参数，形式参数
-    ？不同方法内的参数（实参、形参）互不影响。
+    实际参数，形式参数，互不影响
+
  */
 public class ArgsDemo {
     public static void main(String[] args) {
