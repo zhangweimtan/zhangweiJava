@@ -30,15 +30,16 @@ public class Test06 {
         printArr(arr);
 
     }
+//    反转方法
     public static void reverse(int[] arr) {
-        int x = arr.length-1;
-        for (int i=0; i <=x/2; i++) {
-            int a = arr[i];
-            int b = arr[x-i];
-            arr[i] = b;
-            arr[x - i] = a;
+//        int x = arr.length-1;
+        for (int i=0,x = arr.length-1; i<=x; i++, x--) {
+            int temp = arr[i];// 赋值
+            arr[i] = arr[x];
+            arr[x] = temp;
         }
     }
+//    遍历
     public static void printArr(int[] arr){
         System.out.print("[");
         for (int i =0; i < arr.length; i++){
