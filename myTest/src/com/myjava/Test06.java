@@ -6,10 +6,11 @@ import java.util.Scanner;
     需求：
     （1）键盘录入5个数据，存入arr数组中
     （2）定义方法将arr数组中内容反转
-    分析：定义1个临时变量int i =0
-    int a = arr[i] + arr[arr.length -1-i];
-    arr[i] = arr[arr.length -1-i];
-    arr[arr.length -1-i] = a - arr[i];
+    分析：定义1个临时变量int a, b temp;
+    temp = a
+    a = b
+    b = temp
+    for(int start =0, end = arr.length-1; start <= end; start++, end--)
 
     （3）定义方法对反转数组遍历
  */
