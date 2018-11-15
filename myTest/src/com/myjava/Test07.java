@@ -17,21 +17,20 @@ public class Test07 {
         System.out.println("请输入需要查找元素：");
         int a = sc.nextInt();
 //        定义数组
-        int[] arr = {5,7,3,2,5};
+        int[] arr = {5, 7, 3, 2, 5};
 //        调用方法
-        search(arr,a);
+        int res = search(arr, a);
+        System.out.println(a + "的索引是：" + res);
 
     }
-//    查找方法，返回值 void；参数列表，int[] arr, int a;
-    public static void search(int[] arr, int a){
-        for (int x =0; x<arr.length; x++) {
-            if (a == arr[x]){
-                System.out.println(a+"的索引是："+x);
-                break;
-            }else {
-                System.out.println("数组无此元素！");
-                break;
+
+    //    查找方法，返回值 int；参数列表，int[] arr, int a;
+    public static int search(int[] arr, int a) {
+        for (int x = 0; x < arr.length; x++) {
+            if (a == arr[x]) {
+                return x;
             }
         }
+        return -1; //不存在元素返回-1
     }
 }
