@@ -6,11 +6,17 @@ package com.myjava01;
         StringBuilder是可变的
     构造方法：
         StringBuilder();
+
+        容量：理论值
+        长度：实际值
  */
 public class StringBuilderDemo {
     public static void main(String[] args) {
 //        创建对象
         StringBuilder sb = new StringBuilder();
         System.out.println("sb:"+sb);
+        System.out.println("sb.capacity():"+sb.capacity());
+        System.out.println("sb.length():"+sb.length());
+
     }
 }
