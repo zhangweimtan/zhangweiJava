@@ -22,7 +22,7 @@ public class ServletContextDemo extends HttpServlet {
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
         response.setContentType("text/html;charset=utf-8");
-        PrintWriter out = response.getWriter();
+//        PrintWriter out = response.getWriter();
         //获取ServeltContext对象
         ServletContext context = this.getServletContext();
         //得到context所有枚举对象
@@ -31,8 +31,8 @@ public class ServletContextDemo extends HttpServlet {
         while(names.hasMoreElements()){
             String name = names.nextElement();
             String value = context.getInitParameter(name);
-            out.println(name+"=="+value);
-            out.println("<br>");
+            System.out.println(name+"=="+value);
+//            System.out.println("<br>");
         }
 
 
