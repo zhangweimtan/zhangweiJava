@@ -44,7 +44,7 @@ public class ServletLogin extends HttpServlet {
         //3,访问context记录,获得name,psd
         ServletContext context = this.getServletContext();
         String contextName = context.getInitParameter("username");
-        String contextPsd = context.getInitParameter("psd");
+        String contextPsd = context.getInitParameter("password");
         if (userName.equals(contextName) && psd.equals(contextPsd)){
             System.out.println("登陆成功");
 //            out.println("登陆成功");
@@ -53,7 +53,7 @@ public class ServletLogin extends HttpServlet {
             //4,跳转下一个界面login_success.html,定位跳转
             int sc = 302;//重新定位状态码
             response.setStatus(sc);
-            response.setHeader("Location", "login_success.html");
+            response.setHeader("Location", "download.html");
 
         }else {
             System.out.println("登陆失败");
