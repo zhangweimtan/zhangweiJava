@@ -31,8 +31,8 @@ public class ProductInfo extends HttpServlet {
         if (cookie == null) {
             //首次登陆,添加cookie
             Cookie c = new Cookie("history", id);
-//            c.setMaxAge(60*60*24);
-//            c.setPath("/ProductInfo");
+            c.setMaxAge(60 * 60 * 24);
+            c.setPath("/ProductInfo");
             //返回cookie
             response.addCookie(c);
         } else {
@@ -40,19 +40,15 @@ public class ProductInfo extends HttpServlet {
             String ids = cookie.getValue();
             //更新cookie中value（id）
             //清洗id，删除重复id，一套工具算法
-//            String idCount = IdUtil.idCount(ids,id);
-//            String str = IdUtil.idCount(ids,id);
-//            System.out.println("ids=="+str);
-            ids = id+"#"+ids;
+            ids = IdUtil.idCount(ids, id);
             cookie.setValue(ids);
-//            cookie.setMaxAge(60*60*24);
+            cookie.setMaxAge(60 * 60 * 24);
             response.addCookie(cookie);
             //疑问，cookie没有更新！，清楚cookie后有更新，所以不要设置cookie有效期
-            System.out.println("id=="+ids);
+            System.out.println("ids==" + ids);
         }
         //跳转具体页面
         response.sendRedirect("/product_info.htm");
-
 
 
     }
