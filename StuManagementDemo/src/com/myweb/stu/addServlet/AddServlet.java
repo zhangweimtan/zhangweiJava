@@ -14,8 +14,10 @@ import java.sql.SQLException;
 import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Date;
+import java.util.List;
 
 @WebServlet(name = "AddServlet",urlPatterns = "/AddServlet")
 public class AddServlet extends HttpServlet {
@@ -46,10 +48,16 @@ public class AddServlet extends HttpServlet {
         String birthday = request.getParameter("birthday");//1989-10-18
         //2,添加到数据库
         //将字符串转date，
+//        List<Student> list = new ArrayList<>();
         try {
             Date date = new SimpleDateFormat("yyyy-MM-dd").parse(birthday);
             Student student = new Student(sname,gender,phone,hobby,info,date);
             StudentService service = new StudentServiceImpl();
+//            list.add(student);
+//            System.out.println("list size=="+list.size());
+            /*if(list.size()==0){
+                service.findAll("select * from t_stu");
+            }*/
             service.insert(student);
         } catch (ParseException e) {
             e.printStackTrace();

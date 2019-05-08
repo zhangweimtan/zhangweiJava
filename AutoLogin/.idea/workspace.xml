@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="AutoLogin:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2471bc8f-4918-4e54-9815-64fae7518ffd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ajax&amp;JQueryDemo/.idea/dictionaries/Administrator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajax&amp;JQueryDemo/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajax&amp;JQueryDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajax&amp;JQueryDemo/src/c3p0-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajax&amp;JQueryDemo/src/com/myweb/ajax/checkname/CheckNameServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajax&amp;JQueryDemo/src/com/myweb/ajax/demo01/DemoServlet01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajax&amp;JQueryDemo/src/com/myweb/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajax&amp;JQueryDemo/src/com/myweb/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajax&amp;JQueryDemo/src/com/myweb/servlet/demo02/DemoServlet02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajax&amp;JQueryDemo/src/com/myweb/util/JDBCUtil02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajax&amp;JQueryDemo/src/com/myweb/util/TextUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajax&amp;JQueryDemo/src/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajax&amp;JQueryDemo/web/Demo01.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajax&amp;JQueryDemo/web/demo02.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajax&amp;JQueryDemo/web/demo03.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajax&amp;JQueryDemo/web/demo04.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajax&amp;JQueryDemo/web/demo05.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajax&amp;JQueryDemo/web/demo06.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajax&amp;JQueryDemo/web/js/jquery-1.11.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajax&amp;JQueryDemo/web/test01.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c3p0-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myweb/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myweb/daoImpl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myweb/domain/UserBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myweb/domain/UserBean01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myweb/filter/AutoLoginFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myweb/servlet/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myweb/servlet/RegisterServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myweb/util/JDBCUtil02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myweb/util/MyDateConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FilterDemo/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FilterDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FilterDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FilterDemo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FilterDemo/src/com/myweb/filter/Filter01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FilterDemo/src/com/myweb/filter/Filter02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FilterDemo/src/com/myweb/servlet/Servlet01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FilterDemo/web/demo01/demo01.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FilterDemo/web/demo01/demo02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuerySearchDemo/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuerySearchDemo/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuerySearchDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuerySearchDemo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuerySearchDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuerySearchDemo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuerySearchDemo/src/c3p0-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuerySearchDemo/src/com/myweb/bean/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuerySearchDemo/src/com/myweb/bean/Words.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuerySearchDemo/src/com/myweb/dao/CityDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuerySearchDemo/src/com/myweb/dao/WordDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuerySearchDemo/src/com/myweb/daoImpl/CityDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuerySearchDemo/src/com/myweb/daoImpl/WordDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuerySearchDemo/src/com/myweb/findservlet/CityServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuerySearchDemo/src/com/myweb/findservlet/CityServlet02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuerySearchDemo/src/com/myweb/findservlet/FindServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuerySearchDemo/src/com/myweb/util/JDBCUtil02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuerySearchDemo/src/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuerySearchDemo/web/city.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuerySearchDemo/web/city_json.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuerySearchDemo/web/js/city.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuerySearchDemo/web/js/city_json.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuerySearchDemo/web/js/jquery-1.11.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuerySearchDemo/web/js/jquery-3.4.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuerySearchDemo/web/js/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuerySearchDemo/web/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuerySearchDemo/web/test01.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListenerDemo/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListenerDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListenerDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListenerDemo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListenerDemo/src/com/myweb/domain/Bean01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListenerDemo/src/com/myweb/domain/Bean02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListenerDemo/src/com/myweb/filter/FilterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListenerDemo/src/com/myweb/listener/MyHttpSessionListener01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListenerDemo/src/com/myweb/listener/MyRequestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListenerDemo/src/com/myweb/listener/MyServletContextListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListenerDemo/src/com/myweb/listener/MySessionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListenerDemo/web/demo01/demo01.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListenerDemo/web/demo02/demo02.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListenerDemo/web/demo02/demo03.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManagementDemo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManagementDemo/src/com/myweb/stu/bean/PageBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManagementDemo/src/com/myweb/stu/pageServlet/PageServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManagementDemo/src/com/myweb/stu/searchServlet/SearchServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManagementDemo/src/com/myweb/stu/util/TextUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManagementDemo/web/list_page.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManagementDemo/web/pages.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StuManagementDemo/src/com/myweb/stu/addServlet/AddServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StuManagementDemo/src/com/myweb/stu/addServlet/AddServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StuManagementDemo/src/com/myweb/stu/dao/StudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StuManagementDemo/src/com/myweb/stu/dao/StudentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StuManagementDemo/src/com/myweb/stu/daoImpl/StudentDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StuManagementDemo/src/com/myweb/stu/daoImpl/StudentDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StuManagementDemo/src/com/myweb/stu/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StuManagementDemo/src/com/myweb/stu/service/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StuManagementDemo/src/com/myweb/stu/serviceImpl/StudentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StuManagementDemo/src/com/myweb/stu/serviceImpl/StudentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StuManagementDemo/web/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../StuManagementDemo/web/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myArray/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myRandom/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myRandom/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1436824026">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.192" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="12" />
+          <entry key="jsp" value="5" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="12" />
+          <entry key="JSP" value="5" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="901" />
+          <entry key="jsp" value="316" />
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="901" />
+          <entry key="JSP" value="316" />
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/myweb/servlet/LoginServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/myweb/filter/AutoLoginFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/register.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/myweb/servlet/RegisterServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="19" column="11" selection-start-line="13" selection-start-column="4" selection-end-line="19" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/login.jsp" />
+        <option value="$PROJECT_DIR$/src/c3p0-config.xml" />
+        <option value="$PROJECT_DIR$/src/com/myweb/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/com/myweb/daoImpl/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/myweb/domain/UserBean.java" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/web/register.jsp" />
+        <option value="$PROJECT_DIR$/src/com/myweb/domain/UserBean01.java" />
+        <option value="$PROJECT_DIR$/src/com/myweb/util/MyDateConverter.java" />
+        <option value="$PROJECT_DIR$/src/com/myweb/servlet/RegisterServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/myweb/servlet/LoginServlet.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="175" />
+    <option name="width" value="1940" />
+    <option name="height" value="1170" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AutoLogin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoLogin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoLogin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoLogin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoLogin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoLogin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoLogin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoLogin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="daoImpl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoLogin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoLogin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoLogin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoLogin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoLogin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoLogin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoLogin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoLogin" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoLogin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557221134518" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/jar包/beanUtils/资料/beanutils/必需jar" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.myweb.domain" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\AutoLogin\src\com\myweb\util" />
+      <recent name="C:\Users\Administrator\IdeaProjects\AutoLogin\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.16" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.16" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <deployment>
+        <artifact name="AutoLogin:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_16_AutoLogin" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="AutoLogin:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2471bc8f-4918-4e54-9815-64fae7518ffd" name="Default Changelist" comment="" />
+      <created>1557214215574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557214215574</updated>
+      <workItem from="1557214228080" duration="7501000" />
+      <workItem from="1557277090911" duration="552000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8053000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="934" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49906892" visible="true" weight="0.2533512" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.5009311" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32958803" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/myweb/util/JDBCUtil02.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/c3p0-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="61" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myweb/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myweb/daoImpl/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myweb/domain/UserBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myweb/domain/UserBean01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myweb/util/MyDateConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myweb/servlet/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myweb/servlet/RegisterServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="11" selection-start-line="13" selection-start-column="4" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myweb/filter/AutoLoginFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>AutoLogin:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>AutoLogin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
