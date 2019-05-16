@@ -39,13 +39,18 @@ public class LoginServlet extends HttpServlet {
                     //发送cookie给客户端
                     Cookie cookie = new Cookie("auto_login", userName+"#"+password);
                     cookie.setMaxAge(60*60*24*7);//7天
-                    cookie.setPath("/LoginServlet");
+                    cookie.setPath(request.getContextPath());
+//                    String contextPath = request.getContextPath();
+//                    System.out.println(request.getContextPath());
                     response.addCookie(cookie);
                 }
-                response.sendRedirect("index.jsp");
+
+                //存进session中
                 request.getSession().setAttribute("userBean",userBean );
+                //跳转
+                response.sendRedirect("index.jsp");
             }else {
-                request.getRequestDispatcher("register.jsp").forward(request, response);
+                request.getRequestDispatcher("login.jsp").forward(request, response);
             }
         } catch (SQLException e) {
             e.printStackTrace();
